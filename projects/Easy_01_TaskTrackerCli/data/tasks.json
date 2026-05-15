@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Pay bills",
+    "description": "Pay electricity bill",
+    "dueDate": "2026-06-01T08:30:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Pay Land Tax",
+    "description": "Pay Landtax for VIC",
+    "dueDate": "2026-06-01T00:00:00.000Z"
+  }
+]
