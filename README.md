@@ -20,8 +20,9 @@ Difficulty prefixes:
 
 ### Easy
 
-1. Task tracker CLI: Build a command-line interface (CLI) to manage a to-do list
-2. *To do*
+1. [Task tracker CLI](./projects/Easy_01_TaskTrackerCli/README.md): Build a command-line interface (CLI) to manage a to-do list
+2. [Simple Web Server](./projects/Easy_02_SimpleWebServer/README.md): Create a "Hello World" server using the built-in http module without any external frameworks
+3. [Weather App](./projects/Easy_03_WeatherAppCli/README.md): Fetch live data from a public API (like OpenWeatherMap) and display it based on user input
 
 ### Medium
   
